@@ -167,7 +167,11 @@ Based on the analysis, the following recommendations are proposed:
 
 ## 10. Project Deliverable
 
-The complete Excel workbook contains the analysis, supporting datasets, calculations, pivot tables, charts and results.
+- This project represents practical work undertaken to strengthen my Microsoft Excel skills through structured assignments and hands-on exercises.
+
+- It demonstrates the progression from fundamental formulas and formatting to data summarisation, lookup functions, data consolidation and VBA automation.
+
+- The workbook serves as a reference for the Excel techniques and practical exercises covered throughout the assignment.
 
 **Main file:** `Prajot_Tele_ChurnQuest.xlsx`
 
